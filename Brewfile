@@ -5,7 +5,7 @@ tap "homebrew/core"
 brew "ffmpeg"
 brew "tree"
 brew "mas"
-brew "nodebrew"
+brew "python3"
 
 cask 'google-chrome'
 cask 'slack'
@@ -17,12 +17,10 @@ cask 'gyazo'
 cask 'licecap'
 cask 'google-japanese-ime'
 cask 'alfred'
-cask 'android-studio'
 cask 'evernote'
 cask 'skitch'
 cask 'bettertouchtool'
 cask 'appcleaner'
-cask 'dropbox'
 cask 'dropbox'
 
 mas "LINE", id: 539883307
