@@ -5,6 +5,7 @@ tap "homebrew/core"
 brew "ffmpeg"
 brew "tree"
 brew "mas"
+brew "nodebrew"
 
 cask 'google-chrome'
 cask 'slack'
