@@ -9,7 +9,4 @@ $ brew bundle
 
 ## Reference
 
-- [もう Brewfile は使わない](https://qiita.com/b4b4r07/items/a36ac078b28715963c27)
-- [brew cask が、すごく便利だったことを今更ながらに知った件](https://www.shibuya24.info/entry/brew_cask)
-- [Homebrew まわりの設定](https://kgarage.hatenablog.com/entry/2019/10/06/141842)
-- [Homebrew と mascli ではじめる macOS 入門](https://qiita.com/kopug/items/aa65f73c5fcdce85461f)
+- [【Mac の環境構築】homebrew と Brewfile でアプリを一括インストールする](https://gurutaka-log.com/mac-environment-brewfile)
