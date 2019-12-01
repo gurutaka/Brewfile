@@ -7,6 +7,6 @@ $ cd ~/Brewfile
 $ brew bundle
 ```
 
-## Reference
+## blog memo
 
 - [【Mac の環境構築】homebrew と Brewfile でアプリを一括インストールする](https://gurutaka-log.com/mac-environment-brewfile)
