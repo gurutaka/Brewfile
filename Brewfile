@@ -6,6 +6,7 @@ brew "ffmpeg"
 brew "tree"
 brew "mas"
 brew "python3"
+brew "translate-shell"
 
 cask 'google-chrome'
 cask 'slack'
